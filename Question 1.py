@@ -1,3 +1,12 @@
+
+#Group 111 DAR:
+  #ABU LISE (375172)
+  #TONMOY ACHARJEE (375239)
+  #AKIB HASAN (375339)
+  #Md Ahnaf Azmain Fayek(374489)
+
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 from googletrans import LANGUAGES, Translator
