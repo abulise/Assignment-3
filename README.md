@@ -1,5 +1,5 @@
 For Question 1, run question 1.py and you will see a language translator software which uses Google Translate API.
-For Question 2, run main.py and the game should run smouthly.
+For Question 2, Select Question 2 folder and run main.py .The game should run smouthly.
 
 
 Group 111 DAR:
